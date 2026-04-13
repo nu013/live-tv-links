@@ -27,9 +27,9 @@ CHANNELS_MAP = {
     "AL JAZEERA": "Al Jazeera English Live",
     "ENG MUSIC": "Vevo Pop Live",
     "WILD LIVE": "National Geographic Wild Live",
-    "SOUTH MOVIES": "Goldmines Movies Live 24/7 South Indian Hindi Dubbed",
+    "SOUTH MOVIES": "Goldmines Movies Live 24/7 Hindi Dubbed",
     "HINDI MOVIES": "Bollywood Movies Live Streaming Free",
-    "ANIMALLS": "Bangla Movie Live Streaming 24/7",
+    "ANIMALLS": "Discovery Live",
     "HINDI MUSIC": "T-Series Music Live Hindi Songs 24/7",
     "ZEE 24 BANGLA": "zee 24 bangla Live",
     "9XM MUSIC": "9XM Live Bollywood Music"
